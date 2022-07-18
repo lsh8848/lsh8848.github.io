@@ -11,7 +11,7 @@
 	"cateName": "/text()",
 	"cateId": "/@href",
 	"cateIdR": "/vodtype/(\\d+).html",
-	//"cateManual": {"电影": "1","连续剧": "2","综艺": "3","动漫": "4",},
+	"cateManual": {"电影": "1","连续剧": "2","综艺": "3","动漫": "4"},
 	"homeVodNode": "//div[contains(@class,'module-items')]/a",
 	"homeVodName": "/@title",
 	"homeVodId": "/@href",
