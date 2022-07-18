@@ -1,7 +1,7 @@
 {
-    "author": "lsh",
+    "author": "vx:bktx123",
     "ua": "",
-    "homeUrl": "https://www.dandanzan10.top",
+    "homeUrl": "https://www.dandanzan10.top/",
     "cateManual": {
         "电影": "dianying",
         "电视剧": "dianshiju",
@@ -87,7 +87,7 @@
             {"n": "冒险","v": "冒险"},
             {"n": "灾难","v": "灾难"},
             {"n": "武侠","v": "武侠"}       
-            {"n": "伦理","v": "伦理"}
+            
           ]},
         {
           "key": "area",
@@ -181,7 +181,7 @@
             {"n": "冒险","v": "冒险"},
             {"n": "灾难","v": "灾难"},
             {"n": "武侠","v": "武侠"}
-            {"n": "伦理","v": "伦理"}                      
+                      
           ]},
         {
           "key": "area",
