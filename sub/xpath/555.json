@@ -49,7 +49,7 @@
 	"dtDescR": "",
 	"dtFromNode": "//*[@id='y-playList']/div",
 	"dtFromName": "/span/text()",
-	"dtFromNameR": "",
+	"dtFromNameR": "(\\S+)",
 	"dtUrlNode": "//*[@id='panel1']",
 	"dtUrlSubNode": "/div/div/a",
 	"dtUrlId": "@href",
@@ -62,7 +62,7 @@
 	"scVodNode": "//div[contains(@class,'module-card-item')]/a",
 	"scVodName": "/div/div/img/@alt",
 	"scVodId": "/@href",
-	"scVodIdR": "",
+	"scVodIdR": "/voddetail/(\\S+).html",
 	"scVodImg": "/div/div/img/@data-original",
 	"scVodMark": "/div/div[1]/text()"
 }
