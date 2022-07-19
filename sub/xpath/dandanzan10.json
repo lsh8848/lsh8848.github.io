@@ -1,9 +1,9 @@
 {
-    "author": "vx:bktx123",
+    "author": "lsh",
     "ua": "",
     "homeUrl": "https://www.dandanzan10.top/",
     "cateManual": {
-        "电影": "dianying",
+        "电影": "dianying"
         "电视剧": "dianshiju",
         "综艺": "zongyi",
         "动漫": "dongman"
@@ -19,11 +19,11 @@
     "cateVodNode": "//div[contains(@class,'lists-content')]/ul/li/a",
     "cateVodName": "/img/@alt",
     "cateVodId": "/@href",
-    "cateVodIdR": "/(\\S+).html",
+    "cateVodIdR": "/(\\w+).html",
     "cateVodImg": "/img/@src",
     "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "/div/span/text()",
-    "dtUrl": "https://www.dandanzan10.top/{vid}.html",
+    "dtUrl": "https://www.dandanzan10.top/{cateId}/{vid}.html",
     "dtNode": "//body",
     "dtName": "//h1[contains(@class,'product-title')]/text()",
     "dtNameR": "",
@@ -86,7 +86,7 @@
             {"n": "奇幻","v": "奇幻"},
             {"n": "冒险","v": "冒险"},
             {"n": "灾难","v": "灾难"},
-            {"n": "武侠","v": "武侠"},       
+            {"n": "武侠","v": "武侠"}，
             {"n": "伦理","v": "伦理"}
           ]},
         {
@@ -180,8 +180,8 @@
             {"n": "奇幻","v": "奇幻"},
             {"n": "冒险","v": "冒险"},
             {"n": "灾难","v": "灾难"},
-            {"n": "武侠","v": "武侠"},
-            {"n": "伦理","v": "伦理"}         
+            {"n": "武侠","v": "武侠"}
+            {"n": "伦理","v": "伦理"}                      
           ]},
         {
           "key": "area",
