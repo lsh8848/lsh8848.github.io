@@ -9,7 +9,8 @@
     "电影": "1",
     "电视剧": "2",
     "综艺": "4",
-    "动漫": "3"
+    "动漫": "3",
+    "理论": "6"
   },
   "homeVodNode": "//div[contains(@class,'stui-vodlist__box')]/a[contains(@class,'stui-vodlist__thumb')]",
   "homeVodName": "/@title",
