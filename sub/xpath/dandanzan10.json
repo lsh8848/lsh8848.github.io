@@ -23,7 +23,7 @@
     "cateVodImg": "/img/@src",
     "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "/div/span/text()",
-    "dtUrl": "https://www.dandanzan10.top/{vid}.html",
+    "dtUrl": "https://www.dandanzan10.top/{cateId}/{vid}.html",
     "dtNode": "//body",
     "dtName": "//h1[contains(@class,'product-title')]/text()",
     "dtNameR": "",
