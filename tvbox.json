@@ -209,6 +209,7 @@
 {"key":"csp_biubiu_极品影视","name":"🐛极品影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lsh8848.github.io/sub/biubiu/极品影视.json"},
 {"key":"csp_biubiu_139影视","name":"🐛139影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lsh8848.github.io/sub/biubiu/139影视.json"}, 
 //
+{"key":"csp_xml___多多资源","name":"🐝多多资源"   ,"type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"https://player.movie09.com/dplayer/?url=","searchable":1,"quickSearch":1},
 {"key":"csp_xml___WaBc腾讯","name":"🐝WaBc腾讯"   ,"type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___WaBc爱奇艺","name":"🐝WaBc爱奇艺"   ,"type":1,"api":"https://wabc.ml/mao/2.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___诺迅资源","name":"🐝诺迅资源"   ,"type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
